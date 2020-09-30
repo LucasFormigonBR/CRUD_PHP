@@ -1,0 +1,30 @@
+.btn-primary
+{
+    background-color: green;
+}
+
+.form-geral
+{
+    padding-top: 50px;
+}
+
+#editar
+{
+    width: 24px;
+}
+
+#deletar
+{
+    width: 24px;
+}
+
+.body
+{
+    text-align: center;
+}
+
+a.link
+{
+    padding-right: 20px;
+}
+
